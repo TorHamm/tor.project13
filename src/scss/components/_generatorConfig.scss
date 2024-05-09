@@ -42,7 +42,7 @@
 }
 
 .CheckBoxContainer {
-    @include flex-column(10px);
+    @include flex-column(20px);
     .CheckBox {
         @include flex-row(24px);
         input[type="checkbox"] {
